@@ -27,3 +27,4 @@ Este projeto foi desenvolvido durante meus estudos na linguagem C. O objetivo fo
 2. Compile o arquivo:
    ```bash
    gcc guessing.c -o jogo
+clone : https://github.com/WescleyHenrique/Guessing.git
