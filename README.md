@@ -1,5 +1,6 @@
 # Guessing
 # 🎮 Jogo de Adivinhação em C  Um jogo de console (CLI) simples e interativo desenvolvido em C.
+<img width="1112" height="582" alt="Guessing" src="https://github.com/user-attachments/assets/becfb88e-fb08-43b0-8ea1-fce8ec4794d2" />
 
 Um jogo interativo desenvolvido em C que combina interface de terminal com janelas nativas do Windows. O jogador deve tentar adivinhar um número aleatório gerado pelo computador.
 
